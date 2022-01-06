@@ -1,10 +1,6 @@
 import random
 import string
 
-# for i in range(5):
-#   print('A number:', i)
-
-
 def pr(x):
     print("\n", x, "\n")
 
